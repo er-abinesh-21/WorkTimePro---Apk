@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material 3 Color Palette - Dark Theme -->
+    <color name="md_theme_dark_primary">#90CAF9</color>
+    <color name="md_theme_dark_onPrimary">#003258</color>
+    <color name="md_theme_dark_primaryContainer">#00497D</color>
+    <color name="md_theme_dark_onPrimaryContainer">#D3E4FD</color>
+    
+    <color name="md_theme_dark_secondary">#4DB6AC</color>
+    <color name="md_theme_dark_onSecondary">#003D33</color>
+    <color name="md_theme_dark_secondaryContainer">#00574B</color>
+    <color name="md_theme_dark_onSecondaryContainer">#B2DFDB</color>
+    
+    <color name="md_theme_dark_tertiary">#FFB74D</color>
+    <color name="md_theme_dark_onTertiary">#BF360C</color>
+    <color name="md_theme_dark_tertiaryContainer">#E65100</color>
+    <color name="md_theme_dark_onTertiaryContainer">#FFE0B2</color>
+    
+    <color name="md_theme_dark_error">#EF5350</color>
+    <color name="md_theme_dark_onError">#B71C1C</color>
+    <color name="md_theme_dark_errorContainer">#C62828</color>
+    <color name="md_theme_dark_onErrorContainer">#FFCDD2</color>
+    
+    <color name="md_theme_dark_background">#121212</color>
+    <color name="md_theme_dark_onBackground">#E1E2E5</color>
+    <color name="md_theme_dark_surface">#1E1E1E</color>
+    <color name="md_theme_dark_onSurface">#E1E2E5</color>
+    <color name="md_theme_dark_surfaceVariant">#424242</color>
+    <color name="md_theme_dark_onSurfaceVariant">#C4C6D0</color>
+    
+    <color name="md_theme_dark_outline">#757575</color>
+    <color name="md_theme_dark_outlineVariant">#424242</color>
+    
+    <!-- Card Background -->
+    <color name="card_background_dark">#2C2C2C</color>
+</resources>
